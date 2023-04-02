@@ -1,1 +1,1 @@
-# C# kursu
+# C# Değiken tipleri
